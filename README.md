@@ -63,5 +63,7 @@ To play the game on your local machine:
 Contributions are welcome! If you have ideas to make this game even more fun or educational, feel free to submit a pull request.
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
