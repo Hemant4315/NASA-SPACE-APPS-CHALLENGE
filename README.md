@@ -4,6 +4,7 @@ An exciting space exploration game that combines fun and learning! Players navig
 
 ![Game Preview]<br>
 <img width="299" alt="Home_Page" src="https://github.com/user-attachments/assets/854d7566-22ff-455e-beee-de2b2a3ddb5e">
+<img width="300" alt="Game_UI" src="https://github.com/user-attachments/assets/a367a669-b184-4c4e-b1f6-465882b1f8bb">
 
 
 ## 🌌 Overview
