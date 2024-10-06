@@ -2,7 +2,8 @@
 
 An exciting space exploration game that combines fun and learning! Players navigate through space, collecting stars and learning amazing space facts, all while avoiding asteroids and other obstacles.
 
-![Game Preview](link-to-screenshot.png)
+![Game Preview]<img width="299" alt="Home_Page" src="https://github.com/user-attachments/assets/854d7566-22ff-455e-beee-de2b2a3ddb5e">
+
 
 ## 🌌 Overview
 "NASA Space Educational Game App" is designed for students and space enthusiasts aged 8-18. The game provides an engaging way to learn fascinating facts about space while jumping between platforms, collecting stars, and dodging asteroids. Each collected star reveals a new fact about the cosmos!
